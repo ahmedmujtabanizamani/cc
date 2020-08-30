@@ -1,2 +1,2 @@
-this is 2nd remote upload
-this is 3rd remote push
+thi is 2nd reemote upload
+thiss is 3rd rmote push
