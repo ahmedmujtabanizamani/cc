@@ -7,6 +7,7 @@ bool syntaxAnalysis(string);
 
 int main(){
 	string e="33-45/22*a%4";
+	//return 1 means valid/true/test-passed  || return 0 means false/invalid/test-failed
 	cout<<"lexical analysis of experation ("+e<<") : "<<lexicalAnalysis(e)<<endl;
 	cout<<"syntax analysis : "<<syntaxAnalysis(e)<<endl;
 }
